@@ -1,0 +1,13 @@
+# Python environment
+.venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / tool folders
+.qodo/
+.vscode/
+
+# Excel lock files
+~$*.xlsx
